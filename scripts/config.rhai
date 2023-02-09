@@ -3,7 +3,7 @@ let titles_model = ["BERT", "GPT", "Transformer", "ChatGPT"];
 let titles_method = ["Pre-train", "Pretrain", "Prompt", "Self-Supervised"];
 let titles_task = ["Text-to-SQL", "Generation"];
 let titles =  titles_model + titles_method + titles_type + titles_task;
-let authors_array = ["Yann LeCun", "Geoffrey Hinton", "Yoshua Bengio", "Diyi Yang", "Yan Gao"];
+let authors_array = ["Diyi Yang", "Yan Gao", "Tao Yu", "Qian Liu", "Jiaqi Guo", "Jian-Guang Lou", "Binyuan Hui", "Xinyun Chen", "Bailin Wang", "Matthew Richardson", "Xi Victoria Lin", "Longxu Dou", "Lijie Wang", "Min-Yen Kan", "Pengcheng Yin", "Graham Neubig"];
 
 let conferences = [
     // AI
