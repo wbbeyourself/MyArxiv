@@ -1,6 +1,6 @@
 let titles_type = ["Dataset", "Survey", "Review", "Overview"];
 let titles_model = ["BERT", "GPT", "Transformer", "ChatGPT"];
-let titles_method = ["Pre-train", "Pretrain", "Prompt", "Self-Supervised"];
+let titles_method = ["Pre-train", "Pretrain", "Prompt", "Self-Supervised", "Instruct", "Instruction"];
 let titles_task = ["Text-to-SQL", "Generation"];
 let titles_keywords = ["Language Models", "Human Feedback"];
 let titles =  titles_model + titles_method + titles_type + titles_task + titles_keywords;
