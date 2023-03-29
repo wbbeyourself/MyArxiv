@@ -1,5 +1,5 @@
 let titles_type = ["Dataset", "Survey", "Review", "Overview"];
-let titles_model = ["BERT", "GPT", "Transformer", "ChatGPT"];
+let titles_model = ["BERT", "GPT", "Transformer", "ChatGPT", "LLaMA", "Alpaca"];
 let titles_method = ["Pre-train", "Pretrain", "Prompt", "Self-Supervised", "Instruct", "Instruction"];
 let titles_task = ["Text-to-SQL", "Generation"];
 let titles_keywords = ["Language Models", "Human Feedback"];
