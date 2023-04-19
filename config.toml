@@ -12,10 +12,10 @@ title = "Computation and Language"
 # category = "cs.CV"
 # title = "Computer Vision and Pattern Recognition"
 
-[[sources]]
-limit = 150
-category = "cs.IR"
-title = "Information Retrieval"
+# [[sources]]
+# limit = 150
+# category = "cs.IR"
+# title = "Information Retrieval"
 
 # [[sources]]
 # limit = 150
