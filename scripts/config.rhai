@@ -6,7 +6,7 @@ let titles_keywords = ["Language Models", "Human Feedback"];
 let titles =  titles_model + titles_method + titles_type + titles_task + titles_keywords;
 let authors_array = ["Diyi Yang", "Yan Gao", "Tao Yu", "Qian Liu", "Jiaqi Guo", "Jian-Guang Lou", "Binyuan Hui", "Xinyun Chen", "Bailin Wang", 
                     "Matthew Richardson", "Xi Victoria Lin", "Longxu Dou", "Lijie Wang", "Min-Yen Kan", "Pengcheng Yin", "Graham Neubig", 
-                    "Pengfei Liu", "‪Percy Liang‬", "Jason Wei"];
+                    "Pengfei Liu", "Percy Liang", "Jason Wei"];
 
 let conferences = [
     // AI
