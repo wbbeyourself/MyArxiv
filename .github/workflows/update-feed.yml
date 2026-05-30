@@ -20,7 +20,7 @@ jobs:
       - name: Download ArxivFeed
         env:
           GITHUB_PAT: ${{ github.token }}
-          REPO: "NotCraft/ArxivFeed"
+          REPO: "wbbeyourself/ArxivFeed"
           VERSION: "latest"
           MATCH: "arxivfeed-.+-x86_64-unknown-linux-musl.tar.gz$"
           RENAME: "arxivfeed.tgz"
